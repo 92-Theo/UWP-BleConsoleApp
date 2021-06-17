@@ -1,0 +1,15 @@
+D:\workplace\BleConsoleApp\BleConsoleApp\bin\Debug\netcoreapp3.1\BleConsoleApp.exe
+D:\workplace\BleConsoleApp\BleConsoleApp\bin\Debug\netcoreapp3.1\BleConsoleApp.deps.json
+D:\workplace\BleConsoleApp\BleConsoleApp\bin\Debug\netcoreapp3.1\BleConsoleApp.runtimeconfig.json
+D:\workplace\BleConsoleApp\BleConsoleApp\bin\Debug\netcoreapp3.1\BleConsoleApp.runtimeconfig.dev.json
+D:\workplace\BleConsoleApp\BleConsoleApp\bin\Debug\netcoreapp3.1\BleConsoleApp.dll
+D:\workplace\BleConsoleApp\BleConsoleApp\bin\Debug\netcoreapp3.1\BleConsoleApp.pdb
+D:\workplace\BleConsoleApp\BleConsoleApp\obj\Debug\netcoreapp3.1\BleConsoleApp.csprojAssemblyReference.cache
+D:\workplace\BleConsoleApp\BleConsoleApp\obj\Debug\netcoreapp3.1\BleConsoleApp.AssemblyInfoInputs.cache
+D:\workplace\BleConsoleApp\BleConsoleApp\obj\Debug\netcoreapp3.1\BleConsoleApp.AssemblyInfo.cs
+D:\workplace\BleConsoleApp\BleConsoleApp\obj\Debug\netcoreapp3.1\BleConsoleApp.csproj.CoreCompileInputs.cache
+D:\workplace\BleConsoleApp\BleConsoleApp\obj\Debug\netcoreapp3.1\BleConsoleApp.dll
+D:\workplace\BleConsoleApp\BleConsoleApp\obj\Debug\netcoreapp3.1\BleConsoleApp.pdb
+D:\workplace\BleConsoleApp\BleConsoleApp\obj\Debug\netcoreapp3.1\BleConsoleApp.genruntimeconfig.cache
+D:\workplace\BleConsoleApp\BleConsoleApp\bin\Debug\netcoreapp3.1\Windows.winmd
+D:\workplace\BleConsoleApp\BleConsoleApp\obj\Debug\netcoreapp3.1\BleConsoleApp.csproj.CopyComplete
